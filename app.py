@@ -12,11 +12,12 @@ from torchvision import transforms
 import timm, gradio as gr
 from PIL import Image
 
-MODEL_PATH = "D:/pawId/models/semi_hard_texture.pt"
-YOLO_PATH  = "D:/pawId/runs/detect/nose_detector_v1/weights/best.pt"
-DB_INDEX   = "D:/pawId/db/faiss_texture.index"
-DB_META    = "D:/pawId/db/metadata_texture.json"
-DB_IMG_DIR = "D:/pawId/db/images_texture"
+BASE_DIR   = Path(__file__).resolve().parent
+MODEL_PATH = str(BASE_DIR / "models" / "semi_hard_texture.pt")
+YOLO_PATH  = str(BASE_DIR / "models" / "yolo_nose_detector.pt")
+DB_INDEX   = str(BASE_DIR / "db" / "faiss_texture.index")
+DB_META    = str(BASE_DIR / "db" / "metadata_texture.json")
+DB_IMG_DIR = str(BASE_DIR / "db" / "images_texture")
 IMG_SIZE   = 160
 THRESHOLD  = 0.45
 TOPK       = 5

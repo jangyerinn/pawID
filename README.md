@@ -6,6 +6,23 @@
 
 ---
 
+## 빠른 데모 (평가자용)
+
+GitHub 저장소에는 학습된 모델 가중치와 데모용 등록 DB(50마리)가 이미 포함되어 있어, **재학습이나 데이터 준비 없이 `app.py`만 실행하면 바로 식별 기능을 체험할 수 있다.**
+
+```bash
+git clone https://github.com/jangyerinn/PawID.git
+cd PawID
+pip install -r requirements.txt
+python app.py
+```
+
+> 경로는 `app.py` 위치를 기준으로 자동 인식되므로, 어떤 폴더에 클론하든 동일하게 작동한다.
+
+아래 "설치 및 실행" 절차는 모델을 처음부터 직접 재현·재학습하고 싶을 때만 필요하다.
+
+---
+
 ## 프로젝트 구조
 
 ```
