@@ -1,4 +1,4 @@
-# 🐾 PawID
+# PawID
 **대조 학습 기반 유기견 비문(코 무늬) 생체 식별 시스템**
 
 > Triplet Loss · IQA · Similarity-CAM을 활용한 유기견 신원 확인 시스템  
@@ -71,12 +71,12 @@ data/
     ...
 ```
 
-### 3. YOLOv8n 파인튜닝 (2주차)
+### 3. YOLOv8n 파인튜닝 
 ```bash
 python scripts/2_finetune.py
 ```
 
-### 4. 비문 인식 모델 학습 (3~4주차)
+### 4. 비문 인식 모델 학습
 ```bash
 # Baseline (ResNet50 + Contrastive Loss)
 python scripts/3_train.py --mode baseline
@@ -91,7 +91,7 @@ python scripts/3_train.py --mode pk_sampler
 python scripts/3_train.py --mode semi_hard
 ```
 
-### 5. Gradio 앱 실행 (7주차)
+### 5. Gradio 앱 실행
 ```bash
 # 로컬 실행
 python app.py
