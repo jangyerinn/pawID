@@ -1,7 +1,7 @@
-# 🐾 PawID
+#  PawID
 **대조 학습 기반 유기견 비문(코 무늬) 생체 식별 시스템**
 
-> Triplet Loss · IQA · Similarity-CAM을 활용한 유기견 신원 확인 시스템  
+> Triplet Loss, IQA, Similarity-CAM을 활용한 유기견 신원 확인 시스템  
 > 딥러닝실습 24012480 장예린
 
 ---
@@ -10,18 +10,18 @@
 
 ```
 PawID/
-├── app.py                     # Gradio 웹앱 (7주차, 최종 버전)
+├── app.py                     # Gradio 웹앱 (최종 버전)
 ├── requirements.txt           # 의존성 패키지
-├── 1_label.md                 # 1주차: Roboflow 라벨링 가이드
+├── 1_label.md                 # Roboflow 라벨링 가이드
 ├── 0_prepare_data.py          # CSV 기반 데이터 전처리
-├── 2_finetune.py              # 2주차: YOLOv8n 코 탐지기 파인튜닝
+├── 2_finetune.py              # YOLOv8n 코 탐지기 파인튜닝
 ├── model.py                   # EfficientNet-B0 + Embedding Head
 ├── train.py                   # Triplet Loss + PK Sampler + Semi-Hard Negative Mining
-├── 3_train.py                 # 3~4주차: Baseline → Triplet Loss 학습
+├── 3_train.py                 # Baseline → Triplet Loss 학습
 ├── train_arcface.py           # ArcFace 비교실험
 ├── train_texture.py           # CLAHE+160px 텍스처 강화 학습 (최종 채택 모델)
 ├── build_db.py                # FAISS 벡터 DB (등록 / 검색)
-├── eval_and_cam.py            # 7~8주차: 성능 평가 + Similarity-CAM (XAI, 코사인 유사도 역전파)
+├── eval_and_cam.py            # 성능 평가 + Similarity-CAM (XAI, 코사인 유사도 역전파)
 ├── val_verify.py              # Val 쌍 기반 TAR/FRR 검증
 ├── verify_texture.py          # 텍스처 모델 FAR/TAR 검증, ROC Curve, EER 분석
 ├── check_far.py               # FAR(오인식률) 측정
@@ -35,7 +35,7 @@ PawID/
 └── db/                        # FAISS 인덱스 및 메타데이터
 ```
 
-> 처음에는 `src/`, `scripts/` 모듈 구조로 설계했으나, 개발 과정에서 import 오류가 반복돼 독립 실행 가능한 플랫(flat) 스크립트 구조로 전환했다.
+
 
 ---
 
