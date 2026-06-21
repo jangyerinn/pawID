@@ -10,7 +10,7 @@
 
 ```
 PawID/
-├── app.py               # Gradio 웹앱 (7주차)
+├── app.py               # Gradio 웹앱
 ├── requirements.txt     # 의존성 패키지
 ├── src/
 │   ├── iqa.py           # IQA 모듈 (Laplacian Variance, 수학 알고리즘 기반)
@@ -22,10 +22,10 @@ PawID/
 │   ├── evaluate.py      # Rank-1/5 Accuracy, EER, ROC Curve
 │   └── pipeline.py      # 전체 시스템 통합 파이프라인
 ├── scripts/
-│   ├── 1_label.md       # 1주차: Roboflow 라벨링 가이드
-│   ├── 2_finetune.py    # 2주차: YOLOv8n 파인튜닝
-│   ├── 3_train.py       # 3~4주차: Baseline → Triplet Loss 학습
-│   └── 4_evaluate.py    # 7~8주차: ROC Curve, EER 분석
+│   ├── 1_label.md       # Roboflow 라벨링 가이드
+│   ├── 2_finetune.py    # YOLOv8n 파인튜닝
+│   ├── 3_train.py       # Baseline → Triplet Loss 학습
+│   └── 4_evaluate.py    # ROC Curve, EER 분석
 ├── models/              # 학습된 가중치 저장 위치
 └── data/                # FAISS 인덱스 및 메타데이터
 ```
