@@ -1,7 +1,7 @@
 # PawID
 **대조 학습 기반 유기견 비문(코 무늬) 생체 식별 시스템**
 
-> Triplet Loss · IQA · Similarity-CAM을 활용한 유기견 신원 확인 시스템  
+> Triplet Loss, IQA, Similarity-CAM을 활용한 유기견 신원 확인 시스템  
 > 딥러닝실습 24012480 장예린
 
 ---
