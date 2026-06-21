@@ -1,0 +1,602 @@
+[
+  {
+    "dog_id": "0",
+    "dog_name": "dog_0001",
+    "owner": "테스트견주1",
+    "phone": "010-0000-0001",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\0.jpg",
+    "source_pair": {
+      "imageA": "A_pSqcQb-UTWUAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_FRRpRoqOjMMAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "1",
+    "dog_name": "dog_0002",
+    "owner": "테스트견주2",
+    "phone": "010-0000-0002",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\1.jpg",
+    "source_pair": {
+      "imageA": "A_Y6obS6__26oAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_WGFKRoJO-UMAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "2",
+    "dog_name": "dog_0003",
+    "owner": "테스트견주3",
+    "phone": "010-0000-0003",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\2.jpg",
+    "source_pair": {
+      "imageA": "A_3G3yTa_odWgAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_asf1TJSX2TgAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "3",
+    "dog_name": "dog_0004",
+    "owner": "테스트견주4",
+    "phone": "010-0000-0004",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\3.jpg",
+    "source_pair": {
+      "imageA": "A_MBWvR4pTGZsAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_SMBqRr1S4-j1WkpEifYM3wAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "4",
+    "dog_name": "dog_0005",
+    "owner": "테스트견주5",
+    "phone": "010-0000-0005",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\4.jpg",
+    "source_pair": {
+      "imageA": "A_qg8zR65UnY8AAAAAAAAAAAAACjV1AA.jpg",
+      "imageB": "A_gfC0SJMdC08AAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "5",
+    "dog_name": "dog_0006",
+    "owner": "테스트견주6",
+    "phone": "010-0000-0006",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\5.jpg",
+    "source_pair": {
+      "imageA": "A_Q9rSRLOC244AAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_Ut2TQqRIE88AAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "6",
+    "dog_name": "dog_0007",
+    "owner": "테스트견주7",
+    "phone": "010-0000-0007",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\6.jpg",
+    "source_pair": {
+      "imageA": "A_lXL8SL8dcMYAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_xNLtSKx6Oo8AAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "7",
+    "dog_name": "dog_0008",
+    "owner": "테스트견주8",
+    "phone": "010-0000-0008",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\7.jpg",
+    "source_pair": {
+      "imageA": "A_CqwXQb2Uk8QAAAAAAAAAAAAACjV1AA.jpg",
+      "imageB": "A_I6IMS4jNCswAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "8",
+    "dog_name": "dog_0009",
+    "owner": "테스트견주9",
+    "phone": "010-0000-0009",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\8.jpg",
+    "source_pair": {
+      "imageA": "A_cEIWSJjRV3EAAAAAAAAAAAAACjV1AA.jpg",
+      "imageB": "A_ZmtoQqGf05EAAAAAAAAAAAAAAQAAAQ.jpg"
+    }
+  },
+  {
+    "dog_id": "9",
+    "dog_name": "dog_0010",
+    "owner": "테스트견주10",
+    "phone": "010-0000-0010",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\9.jpg",
+    "source_pair": {
+      "imageA": "A_laN3Sai996gAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_s4E4QKNrYGMAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "10",
+    "dog_name": "dog_0011",
+    "owner": "테스트견주11",
+    "phone": "010-0000-0011",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\10.jpg",
+    "source_pair": {
+      "imageA": "A_kbhNTKkFLHNnP7NOv-w1uAAACjV1AA.jpg",
+      "imageB": "A_xHM1S7UtQBgAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "11",
+    "dog_name": "dog_0012",
+    "owner": "테스트견주12",
+    "phone": "010-0000-0012",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\11.jpg",
+    "source_pair": {
+      "imageA": "A_43jkTrDvOVgAAAAAAAAAAAAACjV1AA.jpg",
+      "imageB": "A_VxY5S486BaoAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "12",
+    "dog_name": "dog_0013",
+    "owner": "테스트견주13",
+    "phone": "010-0000-0013",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\12.jpg",
+    "source_pair": {
+      "imageA": "A_-LNVQqsZJbcAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_kV0QTqI7eEIAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "13",
+    "dog_name": "dog_0014",
+    "owner": "테스트견주14",
+    "phone": "010-0000-0014",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\13.jpg",
+    "source_pair": {
+      "imageA": "A_95MqSbOCu20AAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_SUXMSrkXKkQAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "14",
+    "dog_name": "dog_0015",
+    "owner": "테스트견주15",
+    "phone": "010-0000-0015",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\14.jpg",
+    "source_pair": {
+      "imageA": "A_5okETINuOpoAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_QIrkSKhYTlIAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "15",
+    "dog_name": "dog_0016",
+    "owner": "테스트견주16",
+    "phone": "010-0000-0016",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\15.jpg",
+    "source_pair": {
+      "imageA": "A_2t2gRatFfFoAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_bSe5T68KtyQAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "16",
+    "dog_name": "dog_0017",
+    "owner": "테스트견주17",
+    "phone": "010-0000-0017",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\16.jpg",
+    "source_pair": {
+      "imageA": "A_bsGOQoDtmEUAAAAAAAAAAAAACjV1AA.jpg",
+      "imageB": "A_EC0oQq0w-HYAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "17",
+    "dog_name": "dog_0018",
+    "owner": "테스트견주18",
+    "phone": "010-0000-0018",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\17.jpg",
+    "source_pair": {
+      "imageA": "A_oBwMR74ozMYAAAAAAAAAAAAACjV1AA.jpg",
+      "imageB": "A_PXEOTKM5yqGIy2ROstK32AAAAQAAAQ.jpg"
+    }
+  },
+  {
+    "dog_id": "18",
+    "dog_name": "dog_0019",
+    "owner": "테스트견주19",
+    "phone": "010-0000-0019",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\18.jpg",
+    "source_pair": {
+      "imageA": "A_vsw0Sa3qBS8AAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_VTvFQKRZfUIAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "19",
+    "dog_name": "dog_0020",
+    "owner": "테스트견주20",
+    "phone": "010-0000-0020",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\19.jpg",
+    "source_pair": {
+      "imageA": "A_wMTNRa9PqgQAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_62ZETKI9otsAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "20",
+    "dog_name": "dog_0021",
+    "owner": "테스트견주21",
+    "phone": "010-0000-0021",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\20.jpg",
+    "source_pair": {
+      "imageA": "A_UdajQryHxHkAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_jIngS6Wps0UAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "21",
+    "dog_name": "dog_0022",
+    "owner": "테스트견주22",
+    "phone": "010-0000-0022",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\21.jpg",
+    "source_pair": {
+      "imageA": "A_elopTY1q81IAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_fi37Rp3zTNUAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "22",
+    "dog_name": "dog_0023",
+    "owner": "테스트견주23",
+    "phone": "010-0000-0023",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\22.jpg",
+    "source_pair": {
+      "imageA": "A_6JCNT68ZAgYAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_N-0XRakEO_sAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "23",
+    "dog_name": "dog_0024",
+    "owner": "테스트견주24",
+    "phone": "010-0000-0024",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\23.jpg",
+    "source_pair": {
+      "imageA": "A_KdPtTpVJSAwAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_G4d5RJgdw2MAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "24",
+    "dog_name": "dog_0025",
+    "owner": "테스트견주25",
+    "phone": "010-0000-0025",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\24.jpg",
+    "source_pair": {
+      "imageA": "A_rCp0T6CKXmoAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_Z_syRZ4UeKwAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "25",
+    "dog_name": "dog_0026",
+    "owner": "테스트견주26",
+    "phone": "010-0000-0026",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\25.jpg",
+    "source_pair": {
+      "imageA": "A_KPyvT4lz_83ETztJgyjvRAAAAQAAAQ.jpg",
+      "imageB": "A_SnIwQrakxFYAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "26",
+    "dog_name": "dog_0027",
+    "owner": "테스트견주27",
+    "phone": "010-0000-0027",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\26.jpg",
+    "source_pair": {
+      "imageA": "A_qI4GQIoHi4kAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_cT2DQIxy7o4AAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "27",
+    "dog_name": "dog_0028",
+    "owner": "테스트견주28",
+    "phone": "010-0000-0028",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\27.jpg",
+    "source_pair": {
+      "imageA": "A_FTUXQ4PYcLYAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_RCARSbtsTJqljo9AquQeTwAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "28",
+    "dog_name": "dog_0029",
+    "owner": "테스트견주29",
+    "phone": "010-0000-0029",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\28.jpg",
+    "source_pair": {
+      "imageA": "A_7qw8S6OEVCYAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_5A2RQK5uussAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "29",
+    "dog_name": "dog_0030",
+    "owner": "테스트견주30",
+    "phone": "010-0000-0030",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\29.jpg",
+    "source_pair": {
+      "imageA": "A_xBKFRK4-qIAAAAAAAAAAAAAACjV1AA.jpg",
+      "imageB": "A_ajtCQqRVm7cAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "30",
+    "dog_name": "dog_0031",
+    "owner": "테스트견주31",
+    "phone": "010-0000-0031",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\30.jpg",
+    "source_pair": {
+      "imageA": "A_Zmw-RbYloZ74otZLuANrXAAAAQAAAQ.jpg",
+      "imageB": "A_JlgbRLOWudEAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "31",
+    "dog_name": "dog_0032",
+    "owner": "테스트견주32",
+    "phone": "010-0000-0032",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\31.jpg",
+    "source_pair": {
+      "imageA": "A_DpfrTrCdAqAAAAAAAAAAAAAACjV1AA.jpg",
+      "imageB": "A_ol7aSpT3uOkAAAAAAAAAAAAAAQAAAQ.jpg"
+    }
+  },
+  {
+    "dog_id": "32",
+    "dog_name": "dog_0033",
+    "owner": "테스트견주33",
+    "phone": "010-0000-0033",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\32.jpg",
+    "source_pair": {
+      "imageA": "A_kcoTRJ98wWkAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_aOreRIMYk20AAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "33",
+    "dog_name": "dog_0034",
+    "owner": "테스트견주34",
+    "phone": "010-0000-0034",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\33.jpg",
+    "source_pair": {
+      "imageA": "A_cZ_jT71mkbMAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_oe1ITYzgG4IAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "34",
+    "dog_name": "dog_0035",
+    "owner": "테스트견주35",
+    "phone": "010-0000-0035",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\34.jpg",
+    "source_pair": {
+      "imageA": "A_V9bMSIPcllMAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_9OGkRYpbCYRSmfNHlIiHfwAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "35",
+    "dog_name": "dog_0036",
+    "owner": "테스트견주36",
+    "phone": "010-0000-0036",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\35.jpg",
+    "source_pair": {
+      "imageA": "A_DKfXQpxRPbkAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_ToF3QIbfejwAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "36",
+    "dog_name": "dog_0037",
+    "owner": "테스트견주37",
+    "phone": "010-0000-0037",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\36.jpg",
+    "source_pair": {
+      "imageA": "A_1XHEQpFgQZ4AAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_xk1SRbNMVfIAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "37",
+    "dog_name": "dog_0038",
+    "owner": "테스트견주38",
+    "phone": "010-0000-0038",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\37.jpg",
+    "source_pair": {
+      "imageA": "A_7xGVR7evbTMAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_ei4LQJZMEYoAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "38",
+    "dog_name": "dog_0039",
+    "owner": "테스트견주39",
+    "phone": "010-0000-0039",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\38.jpg",
+    "source_pair": {
+      "imageA": "A_8cgUQKT3_TkAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_aJsJSJKI9qMAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "39",
+    "dog_name": "dog_0040",
+    "owner": "테스트견주40",
+    "phone": "010-0000-0040",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\39.jpg",
+    "source_pair": {
+      "imageA": "A_dGHES5e2Z70AAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_me-7SKuO0QMAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "40",
+    "dog_name": "dog_0041",
+    "owner": "테스트견주41",
+    "phone": "010-0000-0041",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\40.jpg",
+    "source_pair": {
+      "imageA": "A_4FUxR4rikBYAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_SXLlRaJXT9z6CbBIvA56bQAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "41",
+    "dog_name": "dog_0042",
+    "owner": "테스트견주42",
+    "phone": "010-0000-0042",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\41.jpg",
+    "source_pair": {
+      "imageA": "A_TY6aTpyMRLEAAAAAAAAAAAAACjV1AA.jpg",
+      "imageB": "A_kxawSa2XxQEAAAAAAAAAAAAAAQAAAQ.jpg"
+    }
+  },
+  {
+    "dog_id": "42",
+    "dog_name": "dog_0043",
+    "owner": "테스트견주43",
+    "phone": "010-0000-0043",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\42.jpg",
+    "source_pair": {
+      "imageA": "A_tku2RLevALxAabNBri6OzAAACjV1AA.jpg",
+      "imageB": "A_6Oa7RZOzt0gAAAAAAAAAAAAAAQAAAQ.jpg"
+    }
+  },
+  {
+    "dog_id": "43",
+    "dog_name": "dog_0044",
+    "owner": "테스트견주44",
+    "phone": "010-0000-0044",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\43.jpg",
+    "source_pair": {
+      "imageA": "A_cgGtQ5sH4JgAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_jwb2R61UUIYAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "44",
+    "dog_name": "dog_0045",
+    "owner": "테스트견주45",
+    "phone": "010-0000-0045",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\44.jpg",
+    "source_pair": {
+      "imageA": "A_LKcdTJn9Z1gAAAAAAAAAAAAACjV1AA.jpg",
+      "imageB": "A_sUMCS7Sqbh8AAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "45",
+    "dog_name": "dog_0046",
+    "owner": "테스트견주46",
+    "phone": "010-0000-0046",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\45.jpg",
+    "source_pair": {
+      "imageA": "A_odM6Q57AG0YAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_UIu1T5rcKj4AAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "46",
+    "dog_name": "dog_0047",
+    "owner": "테스트견주47",
+    "phone": "010-0000-0047",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\46.jpg",
+    "source_pair": {
+      "imageA": "A_s5OlSYz9ZnsAAAAAAAAAAAAACjV1AA.jpg",
+      "imageB": "A_eLylSqBpef4AAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "47",
+    "dog_name": "dog_0048",
+    "owner": "테스트견주48",
+    "phone": "010-0000-0048",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\47.jpg",
+    "source_pair": {
+      "imageA": "A_tJgSS791yNUAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_pZ5OS4qW5vsAAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "48",
+    "dog_name": "dog_0049",
+    "owner": "테스트견주49",
+    "phone": "010-0000-0049",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\48.jpg",
+    "source_pair": {
+      "imageA": "A_UcUmTrh3GzkAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_iHhbSJF9tp8AAAAAAAAAAAAACjV1AA.jpg"
+    }
+  },
+  {
+    "dog_id": "49",
+    "dog_name": "dog_0050",
+    "owner": "테스트견주50",
+    "phone": "010-0000-0050",
+    "breed": "미입력",
+    "img_path": "D:\\pawId\\db\\images_texture\\49.jpg",
+    "source_pair": {
+      "imageA": "A_aIA8SrDtCqMAAAAAAAAAAAAAAQAAAQ.jpg",
+      "imageB": "A_dFPhSp8WtJbwLS1Fi85LcwAACjV1AA.jpg"
+    }
+  }
+]
